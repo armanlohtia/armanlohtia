@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on gssoc open source projects<br>👯 I’m looking to collaborate on open source and devops<br>🤝 I’m looking for help with devops learning<br>🌱 I’m currently learning linux for devops with basic knowledge of aws like ec2 etc.<br>💬 Ask me about<br>⚡ Fun fact
+🚀 Open Source Contributor @ GSSoC | DevOps Learner<br>🐧 Linux in progress | ☁️ AWS (EC2 & beyond)<br>🤝 Let's build & collaborate — open source / cloud / DevOps<br><br><br>
 
 
 ## 🌐 Socials:
